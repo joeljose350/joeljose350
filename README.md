@@ -1,7 +1,6 @@
 <h1>Hello, I'm <b>Joel Jose</b>.</h1>
 <h3>Aspiring Data Scientist |
-	CSE undergrad student |
-	Learning Python and R
+	CSE undergrad student
 </h3>
 
 <br>
