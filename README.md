@@ -15,7 +15,7 @@
 
 <br>
 
-[![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/+919846642788) [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/joeljose350) [![Email](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:joel750jose@gmail.com) [![Phone](https://img.icons8.com/color/48/000000/phone.png)](tel:+919846642788)
+[![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/+919846642788) [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/joeljose350) [![Email](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:joel750jose@gmail.com)
 
 <br>
 
