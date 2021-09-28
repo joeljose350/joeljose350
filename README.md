@@ -1,13 +1,11 @@
-<h1>Hello, I'm <b>Joel Jose</b>.</h1>
-<h3>Aspiring Data Scientist |
-	CSE undergrad student
-</h3>
+<h1>Hello, I'm Joel Jose</h1>
+<h3>Aspiring Data Scientist | CSE undergrad student</h3>
 
 <br>
 
 ![My GitHub stats](https://github-readme-stats-joeljose350.vercel.app/api?username=joeljose350&theme=dark&show_icons=true)
 
-![My top languages](https://github-readme-stats-joeljose350.vercel.app/api/top-langs/?username=joeljose350&theme=dark)
+![My top languages](https://github-readme-stats-joeljose350.vercel.app/api/top-langs/?username=joeljose350&langs_count=10&theme=dark)
 
 <br>
 
