@@ -1,5 +1,5 @@
 <h1>Hello, I'm Joel Jose</h1>
-<h3>Aspiring Data Scientist | CSE undergrad student</h3>
+<h3>Python and Flutter dev | CSE undergrad student</h3>
 
 <br>
 
