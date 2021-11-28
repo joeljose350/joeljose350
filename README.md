@@ -1,4 +1,4 @@
-<img src="./Joel Jose.png" alt="Banner">
+![Banner](https://user-images.githubusercontent.com/53969297/143735951-130b4889-9cf5-468a-be4d-ce82d30827bc.gif)
 
 <br>
 
