@@ -28,4 +28,4 @@
 
 <br>
 
-### Kudos to [@anuraghazra](https://github.com/anuraghazra/github-readme-stats) for creating the cards used above.
+### Kudos to [@anuraghazra](https://github.com/anuraghazra) for creating the cards used above.
