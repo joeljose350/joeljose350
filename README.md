@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/53969297/143735951-130b4889-9cf5-468a-be4d-ce82d30827bc.gif)
+![Joel Jose](https://user-images.githubusercontent.com/53969297/147370158-e6b254a4-0336-4de2-91c6-f2269a86b692.gif)
 
 <br>
 
