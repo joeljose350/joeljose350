@@ -1,4 +1,4 @@
-![Joel Jose](https://user-images.githubusercontent.com/53969297/147370158-e6b254a4-0336-4de2-91c6-f2269a86b692.gif)
+![Joel Jose](Joel-Jose.gif)
 
 <br>
 
