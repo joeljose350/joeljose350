@@ -6,9 +6,9 @@
 
 <br>
 
-![My GitHub stats](https://github-readme-stats-joeljose350.vercel.app/api?username=joeljose350&theme=dark&show_icons=true)
+[![My GitHub stats](https://github-readme-stats-joeljose350.vercel.app/api?username=joeljose350&theme=dark&show_icons=true)](https://github.com/joeljose350)
 
-![My top languages](https://github-readme-stats-joeljose350.vercel.app/api/top-langs/?username=joeljose350&langs_count=10&theme=dark)
+[![My top languages](https://github-readme-stats-joeljose350.vercel.app/api/top-langs/?username=joeljose350&langs_count=10&theme=dark)](https://github.com/joeljose350)
 
 <br>
 
