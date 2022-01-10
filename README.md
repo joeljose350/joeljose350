@@ -12,6 +12,20 @@
 
 <br>
 
+## About me
+
+<br>
+
+Hello, my name is Joel Jose. I'm a third-year student pursuing a bachelor's degree in Computer Science and Engineering at Toc H Institute of Science and Technology, Arakkunnam.
+
+I'm an avid supporter of FOSS and frequently contribute to open-source projects in my spare time. I'm currently learning Rust and Python, and I have also written in C/C++, JavaScript, HTML/CSS, Java and Dart.
+
+I use Linux-based operating systems on my laptop and server. I also have experience creating and managing virtual machines in VMware Workstation and Oracle Virtualbox, troubleshooting issues and configuring devices on the command line.
+
+I love interacting with people who have the same passion for software engineering and open-source software as I do. Feel free to contact me via the contact links below. I look forward to hearing from you!
+
+<br>
+
 ## Contact me via
 
 <br>
