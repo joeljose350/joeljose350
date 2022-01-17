@@ -21,11 +21,11 @@ I love interacting with people who have the same passion for software engineerin
 <br>
 
 <a href="https://wa.me/+919846642788">
-    <img src="https://img.shields.io/badge/WhatsApp-100C08?logo=whatsapp&logoColor=00E676" height=40px>
+    <img src="https://img.shields.io/badge/WhatsApp-100C08?logo=whatsapp&logoColor=00E676" height=25px>
 </a> <a href="https://www.linkedin.com/in/joeljose350">
-    <img src="https://img.shields.io/badge/LinkedIn-100C08?logo=linkedin&logoColor=0A66C2" height=40px>
+    <img src="https://img.shields.io/badge/LinkedIn-100C08?logo=linkedin&logoColor=0A66C2" height=25px>
 </a> <a href="mailto://joel750jose@gmail.com">
-    <img src="https://img.shields.io/badge/Email-100C08?logo=gmail&logoColor=EA4335" height=40px>
+    <img src="https://img.shields.io/badge/Email-100C08?logo=gmail&logoColor=EA4335" height=25px>
 </a> <a href="https://t.me/joeljose350">
-    <img src="https://img.shields.io/badge/Telegram-100C08?logo=telegram&logoColor=28A8E9" height=40px>
+    <img src="https://img.shields.io/badge/Telegram-100C08?logo=telegram&logoColor=28A8E9" height=25px>
 </a>
