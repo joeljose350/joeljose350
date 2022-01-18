@@ -40,4 +40,4 @@ I love interacting with people who have the same passion for software engineerin
 
 <br>
 
-![Titanic-Data-Analysis](https://github-readme-stats-joeljose350.vercel.app/api/pin?username=joeljose350&repo=Titanic-Data-Analysis&theme=dark&hide_border=true)
+[![Titanic-Data-Analysis](https://github-readme-stats-joeljose350.vercel.app/api/pin?username=joeljose350&repo=Titanic-Data-Analysis&theme=dark&hide_border=true)](https://github.com/joeljose350/Titanic-Data-Analysis)
