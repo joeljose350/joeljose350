@@ -6,11 +6,11 @@
 
 <br>
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=joeljose350&bg_color=151515&color=FFFFFF&line=5CBE72&point=FFFFFF&hide_border=true)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=joeljose350&bg_color=151515&color=FFFFFF&line=5CBE72&point=FFFFFF&hide_border=true)](https://github.com/joeljose350)
 
 <br>
 
-![My GitHub statistics](https://github-readme-stats-joeljose350.vercel.app/api?username=joeljose350&theme=dark&hide_border=true&show_icons=true&include_all_commits=true)
+[![My GitHub statistics](https://github-readme-stats-joeljose350.vercel.app/api?username=joeljose350&theme=dark&hide_border=true&show_icons=true&include_all_commits=true)](https://github.com/joeljose350)
 
 <br>
 
