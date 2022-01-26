@@ -6,7 +6,7 @@
 
 <br>
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=joeljose350&bg_color=151515&color=FFFFFF&line=5CBE72&hide_border=true)
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=joeljose350&bg_color=151515&color=FFFFFF&line=5CBE72&point=FFFFFF&hide_border=true)
 
 <br>
 
