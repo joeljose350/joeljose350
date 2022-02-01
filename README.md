@@ -22,7 +22,7 @@ Hello, I'm Joel Jose - a third-year student pursuing a bachelor's degree in Comp
 
 I'm an avid supporter of free and open-source software and frequently contribute to open-source projects in my spare time. I'm currently learning Rust and Python, and I'm also familiar with C/C++, JavaScript, HTML/CSS, Java and Dart.
 
-I use Linux-based operating systems on my laptop and server. I also have experience creating and managing virtual machines with VMware Workstation and Oracle Virtualbox, troubleshooting problems in Linux machines on the command line and configuring SOHO computer networks.
+I use Linux operating systems on my laptop and server. I also have experience creating and managing virtual machines on VMware Workstation and Oracle Virtualbox, troubleshooting problems in Linux machines on the command line and configuring SOHO network infrastructure.
 
 I love interacting with people who have the same passion for software engineering and open-source software as I do. Feel free to contact me via the links below, and I look forward to hearing from you!
 
