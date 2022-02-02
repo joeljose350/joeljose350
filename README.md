@@ -6,7 +6,7 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=joeljose350&bg_color=151515&color=FFFFFF&line=5CBE72&point=FFFFFF&hide_border=true)](https://github.com/joeljose350)
+[![Joel's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joeljose350&bg_color=151515&color=FFFFFF&line=5CBE72&point=FFFFFF&hide_border=true)](https://github.com/joeljose350)
 
 <br>
 
@@ -20,7 +20,7 @@
 
 Hello, I'm Joel Jose - a third-year student pursuing a bachelor's degree in Computer Science and Engineering at Toc H Institute of Science and Technology, Arakkunnam.
 
-I'm an avid supporter of free and open-source software and frequently contribute to open-source projects in my spare time. I'm currently learning Rust and Python, and I'm also familiar with C/C++, JavaScript, HTML/CSS, Java and Dart.
+I'm an avid supporter of free and open-source software and frequently contribute to open-source projects in my spare time. I'm currently learning Rust and Python, and I'm also familiar with C/C++, JavaScript, TypeScript, HTML/CSS, Java and Dart.
 
 I use Linux operating systems on my laptop and server. I also have experience creating and managing virtual machines on VMware Workstation and Oracle Virtualbox, troubleshooting problems in Linux machines on the command line and configuring SOHO network infrastructure.
 
