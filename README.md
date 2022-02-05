@@ -6,11 +6,12 @@
 
 <br>
 
-[![Joel's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joeljose350&bg_color=151515&color=FFFFFF&line=5CBE72&point=FFFFFF&hide_border=true)](https://github.com/joeljose350)
+[![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joeljose350&bg_color=151515&color=FFFFFF&line=5CBE72&point=FFFFFF&hide_border=true)](https://github.com/joeljose350)
 
 <br>
 
-[![My GitHub statistics](https://github-readme-stats-joeljose350.vercel.app/api?username=joeljose350&theme=dark&hide_border=true&show_icons=true&include_all_commits=true)](https://github.com/joeljose350)
+| [![My GitHub statistics](https://github-readme-stats-joeljose350.vercel.app/api?username=joeljose350&theme=dark&hide_border=true&custom_title=Joel%20Jose's%20GitHub%20Statistics&show_icons=true&include_all_commits=true)](https://github.com/joeljose350) | [![My programming language usage statistics](https://github-readme-stats-joeljose350.vercel.app/api/top-langs?username=joeljose350&theme=dark&hide_border=true&layout=compact&langs_count=10&hide=c)](https://github.com/joeljose350) |
+|:---:|:---:|
 
 <br>
 
@@ -24,7 +25,7 @@ I'm an avid supporter of free and open-source software and frequently contribute
 
 I use Linux operating systems on my laptop and server. I also have experience creating and managing virtual machines on VMware Workstation and Oracle Virtualbox, troubleshooting problems in Linux machines on the command line and configuring SOHO network infrastructure.
 
-I love interacting with people who have the same passion for software engineering and open-source software as I do. Feel free to contact me via the links below, and I look forward to hearing from you!
+I love interacting with people who have the same passion for software engineering and open-source software as I do. Feel free to contact me via the contact links below, and I look forward to hearing from you!
 
 <br>
 
