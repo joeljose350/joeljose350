@@ -14,7 +14,7 @@
 
 <br>
 
-## About me
+## About
 
 <br>
 
@@ -56,7 +56,7 @@ I love interacting with people who have the same passion for software engineerin
 
 <br>
 
-## My projects
+## Projects
 
 <br>
 
