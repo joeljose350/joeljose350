@@ -28,6 +28,14 @@ I love interacting with people who have the same passion for software engineerin
 
 <br>
 
+## Projects
+
+<br>
+
+[![Titanic-Data-Analysis](https://github-readme-stats-joeljose350.vercel.app/api/pin?username=joeljose350&repo=Titanic-Data-Analysis&theme=dark&hide_border=true)](https://github.com/joeljose350/Titanic-Data-Analysis)
+
+<br>
+
 ## Contact links
 
 <br>
@@ -53,11 +61,3 @@ I love interacting with people who have the same passion for software engineerin
 <a href="https://t.me/joeljose350">
     <img src="https://img.shields.io/badge/Telegram-100C08?logo=telegram&logoColor=28A8E9" height=30px>
 </a>
-
-<br>
-
-## Projects
-
-<br>
-
-[![Titanic-Data-Analysis](https://github-readme-stats-joeljose350.vercel.app/api/pin?username=joeljose350&repo=Titanic-Data-Analysis&theme=dark&hide_border=true)](https://github.com/joeljose350/Titanic-Data-Analysis)
