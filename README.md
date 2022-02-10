@@ -10,8 +10,11 @@
 
 <br>
 
-| [![My GitHub statistics](https://github-readme-stats-joeljose350.vercel.app/api?username=joeljose350&theme=dark&hide_border=true&custom_title=Joel%20Jose's%20GitHub%20Statistics&show_icons=true&include_all_commits=true)](https://github.com/joeljose350) | [![My programming language usage statistics](https://github-readme-stats-joeljose350.vercel.app/api/top-langs?username=joeljose350&theme=dark&hide_border=true&layout=compact&langs_count=10&hide=c)](https://github.com/joeljose350) |
-|:---:|:---:|
+[![My GitHub statistics](https://github-readme-stats-joeljose350.vercel.app/api?username=joeljose350&theme=dark&hide_border=true&custom_title=Joel%20Jose's%20GitHub%20Statistics&show_icons=true&include_all_commits=true)](https://github.com/joeljose350)
+
+<br>
+
+[![My programming language usage statistics](https://github-readme-stats-joeljose350.vercel.app/api/top-langs?username=joeljose350&theme=dark&hide_border=true&layout=compact&langs_count=10&hide=c)](https://github.com/joeljose350)
 
 <br>
 
