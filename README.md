@@ -28,7 +28,7 @@ I'm an avid supporter of free and open-source software and frequently contribute
 
 I use Linux operating systems on my laptop and server. I also have experience creating and managing virtual machines on VMware Workstation and Oracle Virtualbox, troubleshooting problems in Linux machines on the command line and configuring SOHO network infrastructure.
 
-I love interacting with people who have the same passion for software engineering and open-source software as I do. Feel free to contact me via the contact links below, and I look forward to hearing from you!
+I love interacting with people who have the same passion for software engineering and open-source software as I do. Feel free to contact me via the contact links below.
 
 <br>
 
