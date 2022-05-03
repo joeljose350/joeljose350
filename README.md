@@ -32,14 +32,6 @@ I love interacting with people who have the same passion for software engineerin
 
 <br>
 
-## Projects
-
-<br>
-
-[![Titanic-Data-Analysis](https://github-readme-stats-joeljosedev.vercel.app/api/pin?username=joeljosedev&repo=Titanic-Data-Analysis&theme=dark&hide_border=true)](https://github.com/joeljosedev/Titanic-Data-Analysis)
-
-<br>
-
 ## Contact links
 
 <br>
