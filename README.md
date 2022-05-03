@@ -22,7 +22,7 @@
 
 <br>
 
-Hello, I'm Joel Jose - a third-year student pursuing a bachelor's degree in Computer Science and Engineering at Toc H Institute of Science and Technology, Arakkunnam.
+Hello, I'm Joel Jose - a third-year student pursuing a bachelor's degree in Computer Science and Engineering.
 
 I'm an avid supporter of free and open-source software and contribute to open-source projects in my spare time. I'm currently learning C and Python, and I'm also familiar with HTML/CSS and TypeScript.
 
