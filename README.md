@@ -22,13 +22,19 @@
 
 <br>
 
-Hello, I'm Joel Jose - a third-year student pursuing a bachelor's degree in Computer Science and Engineering.
+My journey into software engineering began when I got my first laptop about a week before the first semester classes of my bachelor's degree in CSE commenced in August of 2019. I had learnt a little C++ in school and was excited to learn more about programming in college.
 
-I'm an avid supporter of free and open-source software and contribute to open-source projects in my spare time. I'm currently learning C and Python, and I'm also familiar with HTML/CSS and TypeScript.
+I was busy with college work during the first semester, and as a result, I couldn't learn anything new then and remained naive about programming and working on computers.
 
-I use Linux operating systems on my laptop and server. I also have experience creating and managing virtual machines on VMware Workstation, Oracle Virtualbox and GNOME Boxes, troubleshooting problems in Linux machines on the command line and configuring SOHO network infrastructure.
+Then COVID hit and lockdowns ensued.
 
-I love interacting with people who have the same passion for software engineering and open-source software as I do. Feel free to contact me via the links below.
+I didn't pay attention during online classes, and I spent all that time learning more about programming and reading documentation. I also began experimenting with various Linux distributions by creating virtual machines on my laptop and tinkering with them.
+
+By the end of the second semester, I was comfortable working on Linux machines on the command line. I had also learnt Python by doing a few online courses on Coursera and did a small data analysis project to become more proficient in writing Python code and uploaded the same to GitHub.
+
+In the third semester, I tried my hand at web development and decided to build a portfolio website for myself. So, I bought a domain and began learning more about HTML, CSS and JavaScript. By the end of the fourth semester, I decided to build the website with Next.js and Tailwind CSS.
+
+In the fifth semester, I was interested in learning how to write device drivers and potentially contribute code to the Linux kernel. Now, I'm in the sixth semester, learning C programming and building the portfolio website.
 
 <br>
 
