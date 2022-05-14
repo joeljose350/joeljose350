@@ -30,7 +30,7 @@ Then COVID hit and lockdowns ensued.
 
 During lockdowns, I spent time reading documentation and learning more about programming. I also began experimenting with Linux distributions by creating VMs and tinkering with them.
 
-By the end of the second semester, I was comfortable working on Linux machines on the command line. I had also learnt Python by doing courses on Coursera, followed by a data analysis project which I then uploaded to GitHub.
+By the end of the second semester, I was comfortable working on Linux machines on the command line. I had also learnt Python by doing online courses on Coursera, followed by a data analysis project which I then uploaded to GitHub.
 
 In the third semester, I tried learning web development and decided to build a portfolio website for myself. So, I bought a domain and began learning HTML, CSS and JavaScript. By the end of the fourth semester, I decided to build the website with Next.js and Tailwind CSS.
 
