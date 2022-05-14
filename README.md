@@ -22,19 +22,19 @@
 
 <br>
 
-My journey into software engineering began when I got my first laptop about a week before the first semester classes of my bachelor's degree in CSE commenced in August of 2019. I had learnt a little C++ in school and was excited to learn more about programming in college.
+My journey into software engineering began when I got my first laptop about a week before the first semester classes of my bachelor's degree in Computer Science and Engineering commenced.
 
-I was busy with college work during the first semester, and as a result, I couldn't learn anything new then and remained naive about programming and working on computers.
+I had learnt a little C++ in school and was looking forward to learning more about programming in college. I was busy with college work in the first semester, so I couldn't find time to learn anything outside the course curriculum.
 
 Then COVID hit and lockdowns ensued.
 
-I didn't pay attention during online classes, and I spent all that time learning more about programming and reading documentation. I also began experimenting with various Linux distributions by creating virtual machines on my laptop and tinkering with them.
+During lockdowns, I spent time reading documentation and learning more about programming. I also began experimenting with Linux distributions by creating VMs and tinkering with them.
 
-By the end of the second semester, I was comfortable working on Linux machines on the command line. I had also learnt Python by doing a few online courses on Coursera and did a small data analysis project to become more proficient in writing Python code and uploaded the same to GitHub.
+By the end of the second semester, I was comfortable working on Linux machines on the command line. I had also learnt Python by doing courses on Coursera, followed by a data analysis project which I then uploaded to GitHub.
 
-In the third semester, I tried my hand at web development and decided to build a portfolio website for myself. So, I bought a domain and began learning more about HTML, CSS and JavaScript. By the end of the fourth semester, I decided to build the website with Next.js and Tailwind CSS.
+In the third semester, I tried learning web development and decided to build a portfolio website for myself. So, I bought a domain and began learning HTML, CSS and JavaScript. By the end of the fourth semester, I decided to build the website with Next.js and Tailwind CSS.
 
-In the fifth semester, I was interested in learning how to write device drivers and potentially contribute code to the Linux kernel. Now, I'm in the sixth semester, learning C programming and building the portfolio website.
+In the fifth semester, I was interested in learning Linux kernel programming and writing device drivers. Now, I'm in the sixth semester, learning C and building the portfolio website.
 
 <br>
 
