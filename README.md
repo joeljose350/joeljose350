@@ -10,11 +10,11 @@
 
 <br>
 
-[![My GitHub statistics](https://github-readme-stats-joeljosedev.vercel.app/api?username=joeljosedev&theme=dark&hide_border=true&custom_title=Joel%20Jose's%20GitHub%20Statistics&show_icons=true&include_all_commits=true)](https://github.com/joeljosedev)
+[![My GitHub statistics](https://github-readme-stats-neon-three-63.vercel.app/api?username=joeljosedev&theme=dark&hide_border=true&custom_title=Joel%20Jose's%20GitHub%20Statistics&show_icons=true&include_all_commits=true)](https://github.com/joeljosedev)
 
 <br>
 
-[![My programming language usage statistics](https://github-readme-stats-joeljosedev.vercel.app/api/top-langs?username=joeljosedev&theme=dark&hide_border=true&layout=compact&langs_count=10)](https://github.com/joeljosedev)
+[![My programming language usage statistics](https://github-readme-stats-neon-three-63.vercel.app/api/top-langs?username=joeljosedev&theme=dark&hide_border=true&layout=compact&langs_count=10)](https://github.com/joeljosedev)
 
 <br>
 
@@ -43,4 +43,4 @@ In the fifth semester, I was interested in learning Linux kernel programming and
 <br>
 
 | <a href="https://wa.me/+919846642788"><img src="https://img.shields.io/badge/WhatsApp-100C08?logo=whatsapp&logoColor=00E676" height=30px></a> | <a href="https://www.linkedin.com/in/joeljosedev"><img src="https://img.shields.io/badge/LinkedIn-100C08?logo=linkedin&logoColor=0A66C2" height=30px></a> | <a href="mailto:mail@joeljose.dev"><img src="https://img.shields.io/badge/Email-100C08?logo=gmail&logoColor=EA4335" height=30px></a> | <a href="https://t.me/joeljosedev"><img src="https://img.shields.io/badge/Telegram-100C08?logo=telegram&logoColor=28A8E9" height=30px></a> |
-| :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+| :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
