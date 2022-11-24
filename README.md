@@ -22,11 +22,11 @@
 
 <br>
 
-I am a software developer based in Kochi, India and my areas of expertise include web development, Linux system administration and configuring SOHO network infrastructure.
+I am a software developer based in Kochi, India. My areas of expertise include web development, Linux system administration and configuring SOHO network infrastructure.
 
 I also have experience creating and configuring Windows and Linux virtual machines on VMware Workstation and Oracle Virtualbox.
 
-Languages, tools and frameworks I am proficient in:
+Programming languages, frameworks and tools I am proficient in:
 
 - Next.js
 - Tailwind CSS
