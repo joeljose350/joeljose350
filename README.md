@@ -1,4 +1,4 @@
-![Banner](Banner.gif)
+![Banner](banner.png)
 
 <br>
 
