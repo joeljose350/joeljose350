@@ -39,9 +39,9 @@ Programming languages, frameworks and tools I am proficient in:
 
 <br>
 
-## Contact links
+## My Socials
 
 <br>
 
-| <a href="https://wa.me/+919846642788"><img src="https://img.shields.io/badge/WhatsApp-100C08?logo=whatsapp&logoColor=00E676" height=30px></a> | <a href="https://www.linkedin.com/in/joeljosedev"><img src="https://img.shields.io/badge/LinkedIn-100C08?logo=linkedin&logoColor=0A66C2" height=30px></a> | <a href="mailto:mail@joeljose.dev"><img src="https://img.shields.io/badge/Email-100C08?logo=gmail&logoColor=EA4335" height=30px></a> | <a href="https://t.me/joeljosedev"><img src="https://img.shields.io/badge/Telegram-100C08?logo=telegram&logoColor=28A8E9" height=30px></a> |
-| :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://wa.me/+919846642788"><img src="https://img.shields.io/badge/WhatsApp-100C08?logo=whatsapp&logoColor=00E676" height=30px></a> | <a href="https://www.linkedin.com/in/joeljosedev"><img src="https://img.shields.io/badge/LinkedIn-100C08?logo=linkedin&logoColor=0A66C2" height=30px></a> | <a href="https://twitter.com/joeljosedev"><img src="https://img.shields.io/badge/Twitter-100C08?logo=twitter&logoColor=1D9BF0" height=30px></a> | <a href="https://t.me/joeljosedev"><img src="https://img.shields.io/badge/Telegram-100C08?logo=telegram&logoColor=28A8E9" height=30px></a> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
