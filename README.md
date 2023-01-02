@@ -6,10 +6,6 @@
 
 <br>
 
-[![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joeljosedev&bg_color=151515&color=FFFFFF&line=5CBE72&point=FFFFFF&hide_border=true)](https://github.com/joeljosedev)
-
-<br>
-
 [![My GitHub statistics](https://github-readme-stats-neon-three-63.vercel.app/api?username=joeljosedev&theme=dark&hide_border=true&custom_title=Joel%20Jose's%20GitHub%20Statistics&show_icons=true&include_all_commits=true)](https://github.com/joeljosedev)
 
 <br>
