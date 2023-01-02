@@ -6,11 +6,11 @@
 
 <br>
 
-[![My GitHub statistics](https://github-readme-stats-neon-three-63.vercel.app/api?username=joeljosedev&theme=dark&hide_border=true&custom_title=Joel%20Jose's%20GitHub%20Statistics&show_icons=true&include_all_commits=true)](https://github.com/joeljosedev)
+[![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=joeljosedev&theme=dark&hide_border=true&custom_title=Joel%20Jose's%20GitHub%20Statistics&show_icons=true&include_all_commits=true)](https://github.com/joeljosedev)
 
 <br>
 
-[![My programming language usage statistics](https://github-readme-stats-neon-three-63.vercel.app/api/top-langs?username=joeljosedev&theme=dark&hide_border=true&layout=compact&langs_count=10)](https://github.com/joeljosedev)
+[![My programming language usage statistics](https://github-readme-stats.vercel.app/api/top-langs?username=joeljosedev&theme=dark&hide_border=true&layout=compact&langs_count=10)](https://github.com/joeljosedev)
 
 <br>
 
