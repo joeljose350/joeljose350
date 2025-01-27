@@ -18,26 +18,12 @@
 
 <br>
 
-I am a software developer based in Kochi, India. My areas of expertise include web development, Linux system administration and configuring SOHO network infrastructure.
+I am a passionate AWS Data Engineer, and since July 2023, I have been deeply involved in AWS Glue Scripting and designing innovative data solutions using a variety of AWS tools and technologies. My journey in this field has enabled me to create efficient ETL pipelines and optimize SQL queries, all aimed at enhancing performance and creating seamless data workflows.
 
-I also have experience creating and configuring virtual machines on VMware Workstation and Oracle Virtualbox.
+My enthusiasm for data engineering is complemented by a commitment to continuous learning. I enjoy tackling new challenges and exploring different technologies to stay at the forefront of this dynamic field. This drive has inspired me to develop creative solutions that streamline data processing and empower organizations with valuable insights.
 
-Programming languages, frameworks and tools I am proficient in:
+Throughout my career, I have had the opportunity to integrate diverse data sources and implement advanced ETL processes, transforming raw data into actionable intelligence. This approach supports business strategies and fosters a culture in which data drives decision-making, ensuring the reliability and performance of data systems.
 
-- Next.js
-- Tailwind CSS
-- TypeScript
-- HTML/CSS
-- JavaScript
-- Python
-- C
-- Git
+Collaboration is central to my work. I take pride in working seamlessly with cross-functional teams and stakeholders, enhancing the performance of data systems and contributing to overall business success. My analytical mindset and structured approach to problem-solving have earned me a reputation as a dependable and resourceful team member.
 
-<br>
-
-## My Socials
-
-<br>
-
-| <a href="https://wa.me/+919846642788"><img src="https://img.shields.io/badge/WhatsApp-100C08?logo=whatsapp&logoColor=00E676" height=30px></a> | <a href="https://www.linkedin.com/in/joeljosedev"><img src="https://img.shields.io/badge/LinkedIn-100C08?logo=linkedin&logoColor=0A66C2" height=30px></a> | <a href="https://twitter.com/joeljosedev"><img src="https://img.shields.io/badge/Twitter-100C08?logo=twitter&logoColor=1D9BF0" height=30px></a> | <a href="https://t.me/joeljosedev"><img src="https://img.shields.io/badge/Telegram-100C08?logo=telegram&logoColor=28A8E9" height=30px></a> |
-| :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+My career as an AWS Data Engineer is characterized by a combination of technical excellence, strategic thinking, and a passion for leveraging data to drive innovation. As I continue to grow in this field, I am excited to make a lasting impact on the organizations I serve and to advance the field of data engineering.
